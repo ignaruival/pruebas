@@ -1,4 +1,4 @@
-name = "Ignacioooo"
+name = "mercedes"
 lastName = "Ruival"
 
 saludo = (f"Hola {name} {lastName}, como estas?")
