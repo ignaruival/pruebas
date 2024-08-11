@@ -1,4 +1,5 @@
-# pruebas
+# repo ign pruebas varias
+
 pruebas comandos git github
 
 ## descripcion
